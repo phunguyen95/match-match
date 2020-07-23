@@ -1,0 +1,25 @@
+{
+  "name": "tinder-match",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.18.2",
+    "concurrently": "^3.5.1",
+    "cors": "^2.8.5",
+    "express": "^4.16.3",
+    "moment": "^2.27.0",
+    "mongoose": "^5.0.16",
+    "prepend-http": "^2.0.0",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.17.3"
+  }
+}
